@@ -93,7 +93,6 @@ root@void:~# star --required
 |:---:|:---:|
 | 🔴 **Early access** | Star = you see drops first |
 | 🔴 **Power layer** | Tools built above the rest |
-| 🔴 **Void signal** | One star pulls the next build |
 | 🔴 **No noise** | Only results |
 
 <br/>
