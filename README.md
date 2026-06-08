@@ -8,14 +8,14 @@
 
 <br/><br/>
 
-<a href="https://github.com/secret-tools/tools/stargazers">
-  <img src="https://img.shields.io/github/stars/secret-tools/tools?style=for-the-badge&logo=github&label=STARS&labelColor=0a0a0f&color=ff1f1f" alt="stars"/>
+<a href="https://github.com/secret-tools/secret-tool/stargazers">
+  <img src="https://img.shields.io/github/stars/secret-tools/secret-tool?style=for-the-badge&logo=github&label=STARS&labelColor=0a0a0f&color=ff1f1f" alt="stars"/>
 </a>
-<a href="https://github.com/secret-tools/tools/network/members">
-  <img src="https://img.shields.io/github/forks/secret-tools/tools?style=for-the-badge&logo=github&label=FORKS&labelColor=0a0a0f&color=8b0000" alt="forks"/>
+<a href="https://github.com/secret-tools/secret-tool/network/members">
+  <img src="https://img.shields.io/github/forks/secret-tools/secret-tool?style=for-the-badge&logo=github&label=FORKS&labelColor=0a0a0f&color=8b0000" alt="forks"/>
 </a>
-<a href="https://github.com/secret-tools/tools/watchers">
-  <img src="https://img.shields.io/github/watchers/secret-tools/tools?style=for-the-badge&logo=github&label=WATCHING&labelColor=0a0a0f&color=16161c" alt="watchers"/>
+<a href="https://github.com/secret-tools/secret-tool/watchers">
+  <img src="https://img.shields.io/github/watchers/secret-tools/secret-tool?style=for-the-badge&logo=github&label=WATCHING&labelColor=0a0a0f&color=16161c" alt="watchers"/>
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 ### ⭐ **STAR THIS REPOSITORY** ⭐
 
 <h3>
-  <a href="https://github.com/secret-tools/tools">
+  <a href="https://github.com/secret-tools/secret-tool">
     <img src="https://img.shields.io/badge/★-STAR%20SECRET--TOOLS-ff1f1f?style=for-the-badge&labelColor=ff1f1f&logo=github&logoColor=white" alt="star secret-tools"/>
   </a>
 </h3>
@@ -74,7 +74,7 @@ root@void:~# status --repo
 
 root@void:~# star --required
 [!] support the project
-[→] github.com/secret-tools/tools → click ★ Star
+[→] github.com/secret-tools/secret-tool → click ★ Star
 ```
 
 <br clear="left"/>
@@ -101,8 +101,8 @@ root@void:~# star --required
 
 <br/>
 
-<a href="https://github.com/secret-tools/tools/stargazers">
-  <img src="https://img.shields.io/github/stars/secret-tools/tools?label=JOIN%20THE%20SIGNAL&style=for-the-badge&logo=github&labelColor=0a0a0f&color=ff1f1f" alt="star count"/>
+<a href="https://github.com/secret-tools/secret-tool/stargazers">
+  <img src="https://img.shields.io/github/stars/secret-tools/secret-tool?label=JOIN%20THE%20SIGNAL&style=for-the-badge&logo=github&labelColor=0a0a0f&color=ff1f1f" alt="star count"/>
 </a>
 
 </div>
@@ -151,7 +151,7 @@ root@void:~# star --required
 <div align="center">
 
 <h2>
-  <a href="https://github.com/secret-tools/tools">
+  <a href="https://github.com/secret-tools/secret-tool">
     <img src="https://img.shields.io/badge/★%20STAR%20NOW-SUPPORT%20SECRET--TOOLS-ff1f1f?style=for-the-badge&labelColor=0a0a0f&logo=github&logoColor=white" alt="star now"/>
   </a>
 </h2>
