@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Secret-Tools banner"/>
+<img src="https://raw.githubusercontent.com/secret-tools/secret-tool/main/assets/banner.png" width="100%" alt="Secret-Tools banner"/>
 
 <br/>
 
