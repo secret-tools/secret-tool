@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:8b0000,100:ff1f1f&height=280&section=header&text=SECRET%20TOOLS&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=classified%20discord%20utilities%20%C2%B7%20built%20in%20the%20void&descSize=18&descAlign=55&descAlignY=55&stroke=ff1f1f" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Secret-Tools banner"/>
 
 <br/>
 
